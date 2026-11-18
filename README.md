@@ -113,4 +113,4 @@ LDA Test Accuracy: 0.9777777777777777
 
 ## Result
 
-Descriptive statistics and probabilities were calculated using NumPy and Pandas. The data was analysed to understand its key features and patterns.
+Thus, descriptive statistics such as mean, median, mode, and standard deviation were calculated using NumPy and Pandas. Probability calculations were also performed to analyse the data, and the objective was successfully achieved.
